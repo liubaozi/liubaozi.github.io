@@ -92,7 +92,7 @@ i:hover{
 /*首页字体改变*/
 @font-face {
     font-family:'arzhu';
-    src:url('/千图小兔体.ttf'); /* 修改成你的字体 */
+    src:url('/cinecaption227.ttf'); /* 修改成你的字体 */
     font-display:swap
 }
 h1#site-title {
