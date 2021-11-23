@@ -69,30 +69,12 @@ i:hover{
 
 
 
-/* 隐藏回到顶部按钮，替换为up酱 */
 
-#go-up i {
-    display: none;
-    background-color: transparent !important;
-}
-
-#go-up {
-    background-color: transparent !important;
-}
-
-#upj {
-    transform: translate(-70px, -80px) !important;
-}
-
-/*新版3.0.0以上添加up酱置顶ico图标上移问题*/
-.fas.fa-arrow-up {
-    line-height: 2;
-}
 
 /*首页字体改变*/
 @font-face {
     font-family:'arzhu';
-    src:url('/Nice-Bold.ttf'); /* 修改成你的字体 */
+    src:url('/Jam Mono.ttf'); /* 修改成你的字体 */
     font-display:swap
 }
 h1#site-title {
